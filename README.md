@@ -1,3 +1,4 @@
+![Screenshot](screenshot.png)
 # Airboom-theme
 Worpress theme for startups.
 # Inspiration & Resources 
